@@ -1,6 +1,6 @@
 VERSION?=202104181633
 SHA256?=f2695a7cc908e03bab8ffb0a84603a0ad103b4532cc84900624899cc1c32e4ab
-DOCKER_HUB_NAME?='lfkeitel/tacacs_plus'
+DOCKER_HUB_NAME?='joshhalley/tacacs_plus'
 
 .PHONY: alpine ubuntu tag
 
